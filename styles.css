@@ -1,0 +1,38 @@
+img {
+    width: 700px;
+    border: 20px;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    color: red;
+}
+
+h1 {
+    font-family: 'Piedra', cursive;
+    color: blue;
+}
+
+.task {
+    display: none;
+}
+
+.task-done {
+    display: none;
+}
+
+.death {
+    display: none;
+}
+
+.meeting {
+    display: none;
+}
+
+.game-over {
+    display: none;
+}
+
+body {
+    background-color: black;
+}
